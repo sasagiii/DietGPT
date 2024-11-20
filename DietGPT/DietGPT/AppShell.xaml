@@ -5,11 +5,12 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:DietGPT"
     Shell.FlyoutBehavior="Disabled"
-    Title="DietGPT">
+    Shell.TabBarIsVisible="False"
+    Title="DietGPT"
+    xmlns:Views="clr-namespace:DietGPT.View">
 
     <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-
+        ContentTemplate="{DataTemplate Views:MainWindow}"
+        />
+  
 </Shell>

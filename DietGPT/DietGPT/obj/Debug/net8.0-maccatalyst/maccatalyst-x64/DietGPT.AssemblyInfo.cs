@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DietGPT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6d2a75d21ef08e797cd20372ae648de86c2f4973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e53e71b858bc5a38b9e76f53b40b7475a9abe30d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DietGPT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DietGPT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

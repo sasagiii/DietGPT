@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DietGPT.View.MainWindow"
+             xmlns:Views="clr-namespace:DietGPT.View"
+             xmlns:vm="clr-namespace:DietGPT.ViewModel"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit">
+
+    <ContentPage.BindingContext>
+        <vm:MainWindowVM/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ControlTemplate x:Key="LabelLikeButtonTemplate">
+            <Label Text="{TemplateBinding Text}"
+                   TextColor="Black"
+                   HorizontalOptions="Start"
+                   VerticalOptions="Center" />
+        </ControlTemplate>
+    </ContentPage.Resources>
+
+
+    <VerticalStackLayout>
+
+
+
+        <Grid ColumnSpacing="10" Margin="10" Grid.Row="0" MaximumHeightRequest="65">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*"/>
+                <ColumnDefinition Width="0.5*"/>
+                <ColumnDefinition Width="0.5*"/>
+            </Grid.ColumnDefinitions>
+
+
+            <!-- Buttons to Switch Views -->
+            <Image Source="home.png" 
+                   HorizontalOptions="FillAndExpand"
+                   VerticalOptions="FillAndExpand"
+                   Aspect="Fill">
+
+                <Image.Behaviors>
+                    <toolkit:IconTintColorBehavior TintColor="Red" />
+                </Image.Behaviors>
+
+            </Image>
+
+
+            <Button Text="" Command="{Binding ShowHomePage}" BackgroundColor="Transparent"/>
+
+            <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Grid.Column="1">label 2 under button</Label>
+            <Button Text="" Command="{Binding ShowSavedPage}" Grid.Column="1" BackgroundColor="Transparent"/>
+
+            <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Grid.Column="2">label 3 under button</Label>
+            <Button Text="" Command="{Binding ShowSettings}" Grid.Column="2" BackgroundColor="Transparent"/>
+
+        </Grid>
+
+        <!-- Use a DataTemplateSelector or Conditional Logic to display the correct view -->
+        <ContentView Grid.Row="1">
+            <ContentView.Triggers>
+                <DataTrigger TargetType="ContentView" Binding="{Binding CurrentViewName}" Value="SettingsVM">
+                    <Setter Property="Content">
+                        <Setter.Value>
+                            <Views:HomePage BindingContext="{Binding CurrentDataContext}"/>
+                        </Setter.Value>
+                    </Setter>
+                </DataTrigger>
+                <DataTrigger TargetType="ContentView" Binding="{Binding CurrentViewName}" Value="SavedPageVM">
+                    <Setter Property="Content">
+                        <Setter.Value>
+                            <Views:Settings BindingContext="{Binding CurrentDataContext}"/>
+                        </Setter.Value>
+                    </Setter>
+                </DataTrigger>
+                <DataTrigger TargetType="ContentView" Binding="{Binding CurrentViewName}" Value="HomePageVM">
+                    <Setter Property="Content">
+                        <Setter.Value>
+                            <Views:Settings BindingContext="{Binding CurrentDataContext}"/>
+                        </Setter.Value>
+                    </Setter>
+                </DataTrigger>
+            </ContentView.Triggers>
+        </ContentView>
+    </VerticalStackLayout>
+</ContentPage>

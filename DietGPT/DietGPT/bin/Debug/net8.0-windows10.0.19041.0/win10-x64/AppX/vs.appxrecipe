@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-02T19:31:02.517</Modified>
+      <Modified>2024-11-20T20:38:28.207</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-11-02T19:31:02.405</Modified>
+      <Modified>2024-11-20T20:38:28.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DietGPT.runtimeconfig.json">
       <PackagePath>DietGPT.runtimeconfig.json</PackagePath>
-      <Modified>2024-11-02T19:31:02.220</Modified>
+      <Modified>2024-11-20T20:22:41.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DietGPT.dll">
       <PackagePath>DietGPT.dll</PackagePath>
-      <Modified>2024-11-02T19:31:01.507</Modified>
+      <Modified>2024-11-20T20:38:27.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DietGPT.exe</PackagePath>
-      <Modified>2024-11-02T19:31:01.517</Modified>
+      <Modified>2024-11-20T20:38:27.766</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.317</Modified>
+      <Modified>2024-11-20T20:19:55.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.326</Modified>
+      <Modified>2024-11-20T20:19:55.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.338</Modified>
+      <Modified>2024-11-20T20:19:55.358</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.356</Modified>
+      <Modified>2024-11-20T20:19:55.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.426</Modified>
+      <Modified>2024-11-20T20:19:55.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -81,213 +81,225 @@
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-11-02T19:30:25.286</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
-      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.859</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.859</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.859</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.859</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+      <PackagePath>appicon.ico</PackagePath>
+      <Modified>2024-11-20T20:38:02.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.859</Modified>
+      <Modified>2024-11-20T20:38:02.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
-      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.859</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.860</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.861</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.861</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.861</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.861</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.861</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.861</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.861</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.862</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.862</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.862</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.862</Modified>
+      <Modified>2024-11-20T20:38:02.121</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.862</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.121</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.862</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.121</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.862</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.121</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.862</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.862</Modified>
+      <Modified>2024-11-20T20:38:02.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.863</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.863</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.121</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.863</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.863</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.863</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.863</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.863</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.863</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.864</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.864</Modified>
+      <Modified>2024-11-20T20:38:02.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-11-02T19:31:00.864</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+      <PackagePath>appiconLogo.scale-125.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.864</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+      <PackagePath>appiconLogo.scale-150.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.864</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+      <PackagePath>appiconLogo.scale-200.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.864</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+      <PackagePath>appiconLogo.scale-400.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.864</Modified>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dietgpticon.scale-100.png">
+      <PackagePath>dietgpticon.scale-100.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-11-02T19:31:00.864</Modified>
+      <Modified>2024-11-20T20:38:02.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
+      <PackagePath>home.scale-100.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home3030.scale-100.png">
+      <PackagePath>home3030.scale-100.png</PackagePath>
+      <Modified>2024-11-20T20:38:02.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DietGPT.deps.json">
       <PackagePath>DietGPT.deps.json</PackagePath>
-      <Modified>2024-11-02T19:31:02.123</Modified>
+      <Modified>2024-11-20T20:22:41.710</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -296,6 +308,14 @@
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2024-09-09T00:48:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\.nuget\packages\communitytoolkit.maui\9.1.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+      <Modified>2024-11-08T09:03:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\.nuget\packages\communitytoolkit.maui.core\9.1.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+      <Modified>2024-11-08T09:03:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -428,6 +448,10 @@
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-06-26T19:15:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
+      <Modified>2023-10-31T15:00:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.maui.controls.core\8.0.82\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
