@@ -199,8 +199,8 @@
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dietgpticon.scale-100.png">
-      <PackagePath>dietgpticon.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bookmark.scale-100.png">
+      <PackagePath>bookmark.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
@@ -220,8 +220,8 @@
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
       <PackagePath>home.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home3030.scale-100.png">
-      <PackagePath>home3030.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\settings.scale-100.png">
+      <PackagePath>settings.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DietGPT.deps.json">
       <PackagePath>DietGPT.deps.json</PackagePath>

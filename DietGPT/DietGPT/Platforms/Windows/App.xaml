@@ -5,4 +5,5 @@
     xmlns:maui="using:Microsoft.Maui"
     xmlns:local="using:DietGPT.WinUI">
 
+    
 </maui:MauiWinUIApplication>

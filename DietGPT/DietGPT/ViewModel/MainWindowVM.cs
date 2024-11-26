@@ -53,7 +53,7 @@ namespace DietGPT.ViewModel
 
         public MainWindowVM()
         {
-            _settingsContext=new SettingsVM();
+            _settingsContext = new SettingsVM();
             _savedPageContext = new SavedPageVM();
             _homePageContext = new HomePageVM();
 
@@ -66,14 +66,37 @@ namespace DietGPT.ViewModel
             ShowSettings = new Command(ShowSettingsAction);
         }
 
+        private string _selectedID="0";
+        public string SelectedID
+        {
+            get => _selectedID;
+            set
+            {
+                if (_selectedID != value)
+                {
+                    _selectedID = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
         void ShowHomePageAction()
-        { CurrentDataContext = _homePageContext; }
+        {
+            CurrentDataContext = _homePageContext;
+            SelectedID = "0";
+        }
 
         void ShowSavedPageAction()
-        { CurrentDataContext = _savedPageContext; }
+        {
+            CurrentDataContext = _savedPageContext;
+            SelectedID = "1";
+        }
 
         void ShowSettingsAction()
-        { CurrentDataContext = _settingsContext; }
+        {
+            CurrentDataContext = _settingsContext;
+            SelectedID = "2";
+        }
 
         public event PropertyChangedEventHandler PropertyChanged;
         protected void OnPropertyChanged([CallerMemberName] string propertyName = null)

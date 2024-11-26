@@ -63,3 +63,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = DietGPT.View.Settings.xaml
 build_metadata.AdditionalFiles.TargetPath = View\Settings.xaml
 build_metadata.AdditionalFiles.RelativePath = View\Settings.xaml
+
+[D:/CSharpProjects/DietGPT/DietGPT/DietGPT/View/TabHeader.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DietGPT.View.TabHeader.xaml
+build_metadata.AdditionalFiles.TargetPath = View\TabHeader.xaml
+build_metadata.AdditionalFiles.RelativePath = View\TabHeader.xaml

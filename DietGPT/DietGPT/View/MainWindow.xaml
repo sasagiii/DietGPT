@@ -24,34 +24,27 @@
 
 
 
-        <Grid ColumnSpacing="10" Margin="10" Grid.Row="0" MaximumHeightRequest="65">
+        <Grid ColumnSpacing="10" Margin="10" Grid.Row="0">
 
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="0.5*"/>
-                <ColumnDefinition Width="0.5*"/>
-                <ColumnDefinition Width="0.5*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
 
             <!-- Buttons to Switch Views -->
-            <Image Source="home.png" 
-                   HorizontalOptions="FillAndExpand"
-                   VerticalOptions="FillAndExpand"
-                   Aspect="Fill">
-
-                <Image.Behaviors>
-                    <toolkit:IconTintColorBehavior TintColor="Red" />
-                </Image.Behaviors>
-
-            </Image>
-
-
+            <Views:TabHeader ImageName="home.png" selectedID="{Binding SelectedID, Mode=TwoWay}" ID="0"/>
+            <!--<Views:TabHeader imageName="home.png"/>-->
             <Button Text="" Command="{Binding ShowHomePage}" BackgroundColor="Transparent"/>
 
-            <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Grid.Column="1">label 2 under button</Label>
+            <Views:TabHeader ImageName="bookmark.png" selectedID="{Binding SelectedID, Mode=TwoWay}" ID="1" Grid.Column="1"/>
+            <!--<Views:TabHeader imageName="home.png" Grid.Column="1"/>-->
             <Button Text="" Command="{Binding ShowSavedPage}" Grid.Column="1" BackgroundColor="Transparent"/>
 
-            <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Grid.Column="2">label 3 under button</Label>
+            <Views:TabHeader ImageName="settings.png" selectedID="{Binding SelectedID, Mode=TwoWay}" ID="2" Grid.Column="2"/>
+            
+            <!--<Views:TabHeader imageName="home.png" Grid.Column="2"/>-->
             <Button Text="" Command="{Binding ShowSettings}" Grid.Column="2" BackgroundColor="Transparent"/>
 
         </Grid>
