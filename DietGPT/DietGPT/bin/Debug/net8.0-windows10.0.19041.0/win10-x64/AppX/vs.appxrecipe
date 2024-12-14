@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-26T21:02:00.946</Modified>
+      <Modified>2024-12-14T17:42:19.548</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-11-26T21:02:00.787</Modified>
+      <Modified>2024-12-14T17:38:54.698</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DietGPT.runtimeconfig.json">
       <PackagePath>DietGPT.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DietGPT.dll">
       <PackagePath>DietGPT.dll</PackagePath>
-      <Modified>2024-11-26T21:02:00.468</Modified>
+      <Modified>2024-12-14T17:42:18.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>DietGPT.exe</PackagePath>
-      <Modified>2024-11-26T21:02:00.501</Modified>
+      <Modified>2024-12-14T17:42:18.884</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -299,7 +299,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\DietGPT.deps.json">
       <PackagePath>DietGPT.deps.json</PackagePath>
-      <Modified>2024-11-26T21:02:00.694</Modified>
+      <Modified>2024-12-14T17:38:54.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\User\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -8,7 +8,12 @@
         <Label 
             Text="{Binding DisplayedTExt}"
             VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+            HorizontalOptions="Center" 
+            Margin="10"/>
+                <Entry x:Name="entry"
+               Placeholder="Enter API Key"
+                Text="{Binding APIKey}"
+                Margin="200,20,200,20"/>
     </VerticalStackLayout>
-    
+
 </ContentView>

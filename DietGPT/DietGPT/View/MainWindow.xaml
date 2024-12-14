@@ -55,21 +55,21 @@
                 <DataTrigger TargetType="ContentView" Binding="{Binding CurrentViewName}" Value="SettingsVM">
                     <Setter Property="Content">
                         <Setter.Value>
-                            <Views:HomePage BindingContext="{Binding CurrentDataContext}"/>
+                            <Views:Settings BindingContext="{Binding CurrentDataContext}"/>
                         </Setter.Value>
                     </Setter>
                 </DataTrigger>
                 <DataTrigger TargetType="ContentView" Binding="{Binding CurrentViewName}" Value="SavedPageVM">
                     <Setter Property="Content">
                         <Setter.Value>
-                            <Views:Settings BindingContext="{Binding CurrentDataContext}"/>
+                            <Views:SavedPage BindingContext="{Binding CurrentDataContext}"/>
                         </Setter.Value>
                     </Setter>
                 </DataTrigger>
                 <DataTrigger TargetType="ContentView" Binding="{Binding CurrentViewName}" Value="HomePageVM">
                     <Setter Property="Content">
                         <Setter.Value>
-                            <Views:Settings BindingContext="{Binding CurrentDataContext}"/>
+                            <Views:HomePage BindingContext="{Binding CurrentDataContext}"/>
                         </Setter.Value>
                     </Setter>
                 </DataTrigger>

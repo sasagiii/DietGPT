@@ -10,14 +10,26 @@ namespace DietGPT.ViewModel
 {
     public class SettingsVM : INotifyPropertyChanged
     {
-        private string _displayedTExt="Default Settings";
-
+        private string _displayedTExt="Open AI API Key";
         public string DisplayedTExt
         {
             get { return _displayedTExt; }
             set
             {
                 _displayedTExt = value;
+                OnPropertyChanged();
+            }
+        }
+
+        private string _api = "Open AI API Key";
+        public string APIKey
+        {
+            get { 
+                return Model.APIKeyManager.getInstance().ApiKey;
+            }
+            set
+            {
+                Model.APIKeyManager.getInstance().ApiKey = value;
                 OnPropertyChanged();
             }
         }
