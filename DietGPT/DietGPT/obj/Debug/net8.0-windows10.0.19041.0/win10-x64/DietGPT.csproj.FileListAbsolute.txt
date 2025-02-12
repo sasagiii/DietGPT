@@ -184,3 +184,4 @@ D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\w
 D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
 D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
 D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\CSharpProjects\DietGPT\DietGPT\DietGPT\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll

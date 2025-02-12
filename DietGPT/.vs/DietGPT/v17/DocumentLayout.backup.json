@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\CSharpProjects\\DietGPT\\DietGPT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\model\\apikeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\model\\apikeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\viewmodel\\settingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\viewmodel\\settingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\view\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\view\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\view\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\view\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\viewmodel\\savedpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\viewmodel\\savedpagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\model\\micromacroresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\model\\micromacroresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\view\\tabheader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\view\\tabheader.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\viewmodel\\homepagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\viewmodel\\homepagevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\viewmodel\\mainwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\view\\tabheader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\view\\tabheader.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|d:\\csharpprojects\\dietgpt\\dietgpt\\dietgpt\\model\\apicallermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72EC716-6331-4980-BD3B-271B4A23164C}|DietGPT\\DietGPT.csproj|solutionrelative:dietgpt\\model\\apicallermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,114 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindowVM.cs",
-              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\ViewModel\\MainWindowVM.cs",
-              "RelativeDocumentMoniker": "DietGPT\\ViewModel\\MainWindowVM.cs",
-              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\ViewModel\\MainWindowVM.cs",
-              "RelativeToolTip": "DietGPT\\ViewModel\\MainWindowVM.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwB0AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T16:46:40.669Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "DietGPT\\View\\MainWindow.xaml",
-              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\MainWindow.xaml",
-              "RelativeToolTip": "DietGPT\\View\\MainWindow.xaml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-24T14:30:18.936Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TabHeader.xaml.cs",
-              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\TabHeader.xaml.cs",
-              "RelativeDocumentMoniker": "DietGPT\\View\\TabHeader.xaml.cs",
-              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\TabHeader.xaml.cs",
-              "RelativeToolTip": "DietGPT\\View\\TabHeader.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T14:38:48.891Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TabHeader.xaml",
-              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\TabHeader.xaml",
-              "RelativeDocumentMoniker": "DietGPT\\View\\TabHeader.xaml",
-              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\TabHeader.xaml",
-              "RelativeToolTip": "DietGPT\\View\\TabHeader.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-24T14:28:56.3Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "APIKeyManager.cs",
-              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Model\\APIKeyManager.cs",
-              "RelativeDocumentMoniker": "DietGPT\\Model\\APIKeyManager.cs",
-              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Model\\APIKeyManager.cs",
-              "RelativeToolTip": "DietGPT\\Model\\APIKeyManager.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:25:48.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SavedPageVM.cs",
-              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\ViewModel\\SavedPageVM.cs",
-              "RelativeDocumentMoniker": "DietGPT\\ViewModel\\SavedPageVM.cs",
-              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\ViewModel\\SavedPageVM.cs",
-              "RelativeToolTip": "DietGPT\\ViewModel\\SavedPageVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:22:05.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Settings.xaml",
-              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\Settings.xaml",
-              "RelativeDocumentMoniker": "DietGPT\\View\\Settings.xaml",
-              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\Settings.xaml",
-              "RelativeToolTip": "DietGPT\\View\\Settings.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "DietGPT\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Resources\\Styles\\Styles.xaml*",
+              "RelativeToolTip": "DietGPT\\Resources\\Styles\\Styles.xaml*",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-14T16:49:29.474Z",
+              "WhenOpened": "2025-02-12T16:36:29.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SettingsVM.cs",
-              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\ViewModel\\SettingsVM.cs",
-              "RelativeDocumentMoniker": "DietGPT\\ViewModel\\SettingsVM.cs",
-              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\ViewModel\\SettingsVM.cs",
-              "RelativeToolTip": "DietGPT\\ViewModel\\SettingsVM.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "DietGPT\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "DietGPT\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-12T16:36:25.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MicroMacroResults.cs",
+              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Model\\MicroMacroResults.cs",
+              "RelativeDocumentMoniker": "DietGPT\\Model\\MicroMacroResults.cs",
+              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Model\\MicroMacroResults.cs",
+              "RelativeToolTip": "DietGPT\\Model\\MicroMacroResults.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T14:33:12.439Z",
+              "WhenOpened": "2025-02-12T16:17:49.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APICallerManager.cs",
+              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Model\\APICallerManager.cs",
+              "RelativeDocumentMoniker": "DietGPT\\Model\\APICallerManager.cs",
+              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\Model\\APICallerManager.cs",
+              "RelativeToolTip": "DietGPT\\Model\\APICallerManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:41:04.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePageVM.cs",
+              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\ViewModel\\HomePageVM.cs",
+              "RelativeDocumentMoniker": "DietGPT\\ViewModel\\HomePageVM.cs",
+              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\ViewModel\\HomePageVM.cs",
+              "RelativeToolTip": "DietGPT\\ViewModel\\HomePageVM.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:29:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\HomePage.xaml",
+              "RelativeDocumentMoniker": "DietGPT\\View\\HomePage.xaml",
+              "ToolTip": "D:\\CSharpProjects\\DietGPT\\DietGPT\\DietGPT\\View\\HomePage.xaml",
+              "RelativeToolTip": "DietGPT\\View\\HomePage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-22T13:28:43.17Z",
               "EditorCaption": ""
             }
           ]

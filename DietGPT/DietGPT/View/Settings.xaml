@@ -13,7 +13,7 @@
                 <Entry x:Name="entry"
                Placeholder="Enter API Key"
                 Text="{Binding APIKey}"
-                Margin="200,20,200,20"/>
+                Margin="100,20,100,20"/>
     </VerticalStackLayout>
 
 </ContentView>

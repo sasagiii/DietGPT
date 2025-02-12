@@ -20,8 +20,12 @@
     </ContentPage.Resources>
 
 
-    <VerticalStackLayout>
+    <Grid Margin="10">
 
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
 
 
         <Grid ColumnSpacing="10" Margin="10" Grid.Row="0">
@@ -31,7 +35,6 @@
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-
 
             <!-- Buttons to Switch Views -->
             <Views:TabHeader ImageName="home.png" selectedID="{Binding SelectedID, Mode=TwoWay}" ID="0"/>
@@ -50,7 +53,7 @@
         </Grid>
 
         <!-- Use a DataTemplateSelector or Conditional Logic to display the correct view -->
-        <ContentView Grid.Row="1">
+        <ContentView Grid.Row="1" VerticalOptions="Fill">
             <ContentView.Triggers>
                 <DataTrigger TargetType="ContentView" Binding="{Binding CurrentViewName}" Value="SettingsVM">
                     <Setter Property="Content">
@@ -75,5 +78,6 @@
                 </DataTrigger>
             </ContentView.Triggers>
         </ContentView>
-    </VerticalStackLayout>
+
+    </Grid>
 </ContentPage>

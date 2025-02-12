@@ -1043,3 +1043,5 @@ D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-android\stamp\_Conver
 D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-android\android\assets\CommunityToolkit.Mvvm.dll
+D:\CSharpProjects\DietGPT\DietGPT\DietGPT\obj\Debug\net8.0-android\android\assets\CommunityToolkit.Mvvm.pdb

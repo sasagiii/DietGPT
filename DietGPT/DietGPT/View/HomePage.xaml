@@ -5,14 +5,49 @@
              Shell.TabBarIsVisible="False"
              >
 
+    <Grid Margin="20">
 
-    <VerticalStackLayout Margin="20">
-        <Label 
-            Text="{Binding DisplayedTExt}"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
 
-    </VerticalStackLayout>
-    
-    
+        <ScrollView VerticalOptions="FillAndExpand" IsVisible="{Binding DisplayResults}">
+            <StackLayout VerticalOptions="Fill">
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.Cal, StringFormat='Calories: {0} Cal'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.Weight, StringFormat='Total Weight: {0}g'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.Calper100g, StringFormat='Calories per 100g: {0} calories'}"/>
+
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="Macronutrients" FontSize="Large"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.Protein, StringFormat='Protein: {0}g'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.Carbs, StringFormat='Carbohydrates: {0}g'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Margin="15,0,0,0" Text="{Binding MicroMacroResult.Sugar, StringFormat='Sugars: {0}g'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Margin="15,0,0,0" Text="{Binding MicroMacroResult.Fiber, StringFormat='Fiber: {0}g'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.Fat, StringFormat='Fat: {0}g'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Margin="15,0,0,0" Text="{Binding MicroMacroResult.SaturatedFat, StringFormat='Saturated Fat: {0}g'}"/>
+
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="Micronutrients" FontSize="Large"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.Calcium, StringFormat='Calcium: {0}mg'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.VitC, StringFormat='Vitamin C: {0}mg'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.VitA, StringFormat='Vitamin A: {0} IU'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.Potassium, StringFormat='Potassium: {0}mg'}"/>
+                <Label LineBreakMode="WordWrap"  LineHeight="1.8" Text="{Binding MicroMacroResult.Iron, StringFormat='Iron: {0}mg'}"/>
+            </StackLayout>
+        </ScrollView>
+        
+
+            <Grid VerticalOptions="End"  Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
+
+            <Editor    Placeholder="recipe" Text="{Binding Recipe}" VerticalTextAlignment="Center"/>
+            <Button Grid.Column="1" Background="Purple" Text="send" TextColor="White" Command="{Binding SendRecipe}" Margin="10,0,0,0"/>
+            </Grid>
+
+
+
+    </Grid>
+
 </ContentView>

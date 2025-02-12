@@ -30,8 +30,7 @@ namespace DietGPT.Model
             }
         }
 
-
-        public APIKeyManager()
+        private APIKeyManager()
         {
             ApiKey = Preferences.Get("ApiKey", "");
         }
